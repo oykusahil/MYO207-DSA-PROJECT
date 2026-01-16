@@ -2,7 +2,6 @@
 
 // Öykü Sahil
 // 2320171036
-// BTK Akademi Sertifika Bağlantısı:
 //https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=EoPfJnn2L7
 
 
@@ -63,3 +62,4 @@ int main() {
 
     return 0;
 }
+
